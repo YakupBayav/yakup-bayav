@@ -1,0 +1,25 @@
+{
+  "name": "yakup-bayav",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "yakup": "echo 'Benim adım yakup'"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Yakup Bayav",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.6.5",
+    "nodemailer": "^6.8.0",
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YakupBayav/yakup-bayav.git"
+  }
+}
